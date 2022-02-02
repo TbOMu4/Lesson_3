@@ -1,0 +1,48 @@
+* {
+    color: violet;
+}
+
+[class*="-title"] {
+    color: red;
+}
+[class*="-text"] {
+    color: teal;
+}
+.header-subtitle {
+    color: blueviolet;
+}
+li > a {
+    color: chocolate;
+}
+ul > li {
+    color: blue;
+}
+li.section04-item{
+    color: indigo;
+}
+span{
+    color: red;
+}
+.section06-item{
+    color: firebrick;
+}
+.section04-text,
+.section08-text,
+.section10-text {
+    color: orange;
+}
+#link-page {
+    color: maroon;
+}
+.section02-text ~ p {
+    color: saddlebrown;
+}
+.body-section05 > h2 {
+    color: green;
+}
+.section09-text + p {
+    color: rebeccapurple;
+}
+.body-section12 > p {
+    color: orangered;
+}
